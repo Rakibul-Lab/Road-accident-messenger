@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/47a0acf75b3237531452c6faeb70ecc0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/47a0acf75b3237531452c6faeb70ecc0/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/47a0acf75b3237531452c6faeb70ecc0/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/47a0acf75b3237531452c6faeb70ecc0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

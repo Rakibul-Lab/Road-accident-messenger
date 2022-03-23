@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/377787ce2da1560b4cfe5c12b0c6a6b1/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a50760ab96adb7afde32f728059cf0a7/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576a6b7180dbc08eba5e685236bd66bf/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576a6b7180dbc08eba5e685236bd66bf/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576a6b7180dbc08eba5e685236bd66bf/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

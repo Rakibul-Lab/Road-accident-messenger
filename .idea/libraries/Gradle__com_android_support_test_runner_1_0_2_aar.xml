@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:runner:1.0.2@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/runner-1.0.2.aar/e674e1f978d77fc0413e2db7ec12fe95/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/runner-1.0.2.aar/38312bf1e51f7ebb3969d8c84e8c3adc/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/c8009347dbf6f7830e20622f02f33b03/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/c8009347dbf6f7830e20622f02f33b03/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/c8009347dbf6f7830e20622f02f33b03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/modules-2/files-2.1/com.android.support.test/runner/1.0.2/493b6daca0eaa2f479bd6028d1754b6b7eecbd5a/runner-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/com.android.support.test/runner/1.0.2/b2ce2342744a66e935dbc4a298259709a4c1f042/runner-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

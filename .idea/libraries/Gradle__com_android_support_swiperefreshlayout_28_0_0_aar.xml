@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:swiperefreshlayout:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d699357047dc9c3f7c221a6828ddac11/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/17c3e69bf607a27996c79b5e4feb7012/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/89b4e687fef86f9c5bfb3949c9d966cd/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d699357047dc9c3f7c221a6828ddac11/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d699357047dc9c3f7c221a6828ddac11/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d699357047dc9c3f7c221a6828ddac11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

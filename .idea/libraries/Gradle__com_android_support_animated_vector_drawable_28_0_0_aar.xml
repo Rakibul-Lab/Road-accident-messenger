@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/056017c8df0d69daf3ed6bc695afba09/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cb50eae94e6e1abd1de6ff2371a85898/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1cbfaadc32663054d73c55f4d2cd079c/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1cbfaadc32663054d73c55f4d2cd079c/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1cbfaadc32663054d73c55f4d2cd079c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

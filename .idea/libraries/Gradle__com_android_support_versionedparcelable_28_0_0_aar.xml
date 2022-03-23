@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:versionedparcelable:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/570d3cbfdef5e955c24d38760f8f9896/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1deecdba361775342e3e75ffa3ef6bb/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad864cd2d64e623a0758a649ed401e8c/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad864cd2d64e623a0758a649ed401e8c/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad864cd2d64e623a0758a649ed401e8c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

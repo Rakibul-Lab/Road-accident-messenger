@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:viewpager:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f671ad4516b5679048d5f792e91348cf/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2cea598a1571ea177e2d7d7245f3f094/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e1425f9fa4961fa4d50183346a19a8a/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e1425f9fa4961fa4d50183346a19a8a/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e1425f9fa4961fa4d50183346a19a8a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

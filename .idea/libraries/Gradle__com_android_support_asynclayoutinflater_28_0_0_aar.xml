@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f76d051d5b39a8349aba997bfcbae81a/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9df0c6913cdaec8fd6c7d36856e3056d/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b256ed455a5ced8426f4d10efaadccda/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b256ed455a5ced8426f4d10efaadccda/AndroidManifest.xml" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b256ed455a5ced8426f4d10efaadccda/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

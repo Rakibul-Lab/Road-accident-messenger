@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: uk.co.chrisjenx:calligraphy:2.3.0@aar">
+    <CLASSES>
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/1fdcd87a98bb9af8c8f4780f1c2cabee/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/1fdcd87a98bb9af8c8f4780f1c2cabee/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/1fdcd87a98bb9af8c8f4780f1c2cabee/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/uk.co.chrisjenx/calligraphy/2.3.0/e2637b5ce67253023fcba23a3188ec9af473481a/calligraphy-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

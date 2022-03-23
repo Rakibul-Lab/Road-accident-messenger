@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.core:runtime:1.1.1@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/runtime-1.1.1.aar/72231e4631967ece861f6aa162abc43d/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16611685532e9779df609800ba0ea3e7/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce157a926a8dd9e3938933b0c5e0ee5f/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce157a926a8dd9e3938933b0c5e0ee5f/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce157a926a8dd9e3938933b0c5e0ee5f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/android.arch.core/runtime/1.1.1/25df553df10af32bede9dd768a2d15299543d84/runtime-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

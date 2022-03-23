@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/ae467af724818f1797639dd0a484f549/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/2f9a91606812c059e5123baa8fb881ed/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/94c56cd138fff205436711116a1c43d2/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/94c56cd138fff205436711116a1c43d2/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/94c56cd138fff205436711116a1c43d2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

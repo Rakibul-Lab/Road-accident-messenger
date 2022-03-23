@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0840c7d4f8bfccb2ac2a58d9dfe93804/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/74de4b6ec5ec1ed36dc21f6da1487f86/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d9948eaeefab34e6cef2133a11329cb/AndroidManifest.xml" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d9948eaeefab34e6cef2133a11329cb/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d9948eaeefab34e6cef2133a11329cb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

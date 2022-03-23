@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/47f26addba1070b13d808fb5fb4e41f0/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2fc64a5734f5a338126f002f6f0834f2/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/68dc993763c8d66c859a9d0a58e8ec7c/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/68dc993763c8d66c859a9d0a58e8ec7c/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/68dc993763c8d66c859a9d0a58e8ec7c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/android.arch.lifecycle/livedata-core/1.1.1/c38818e006ea7a408c05e3090364332d46494ef/livedata-core-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

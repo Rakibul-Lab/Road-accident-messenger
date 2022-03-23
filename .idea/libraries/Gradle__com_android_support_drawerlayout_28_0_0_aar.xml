@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:drawerlayout:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e9746b0c28ff2d361e427f71ae5787e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/982925fb37f330c6df8614d58fd12057/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cf762f034ac5e45e91095d3214fbbb4a/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e9746b0c28ff2d361e427f71ae5787e/AndroidManifest.xml" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e9746b0c28ff2d361e427f71ae5787e/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e9746b0c28ff2d361e427f71ae5787e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

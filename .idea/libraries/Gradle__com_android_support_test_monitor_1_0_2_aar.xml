@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:monitor:1.0.2@aar">
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/monitor-1.0.2.aar/b314bf93bdbee2be068821014b3d4590/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/monitor-1.0.2.aar/2a26d91ba80089efff9ad79b73ec6a65/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/fae7d22c9fe6263c64fafd6dd3e7b031/res" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/fae7d22c9fe6263c64fafd6dd3e7b031/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/fae7d22c9fe6263c64fafd6dd3e7b031/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/modules-2/files-2.1/com.android.support.test/monitor/1.0.2/6cc016eaa2b8a238607fe5fc20f27135bf8d7fd/monitor-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/com.android.support.test/monitor/1.0.2/5764301056100b445e9ba31df7d1b554a55450f6/monitor-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

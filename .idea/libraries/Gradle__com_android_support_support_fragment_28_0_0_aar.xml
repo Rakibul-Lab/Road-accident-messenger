@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c87b322dd3d00004abe0aa62634ee343/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://F:/JAVA project/Road Accident messenger/Road Accident messenger/Road Accident messenger/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ddd5c1ecf108e793f9f327c15d49fb43/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b8347f84b08ba13a0ba014609dd9e68/res" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c87b322dd3d00004abe0aa62634ee343/AndroidManifest.xml" />
+      <root url="jar://F:/Java project gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c87b322dd3d00004abe0aa62634ee343/jars/classes.jar!/" />
+      <root url="file://F:/Java project gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c87b322dd3d00004abe0aa62634ee343/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
